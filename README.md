@@ -7,7 +7,8 @@ A site for pizza lovers to create and share your materpeices with others!
 -->
 
 ## Figma WireFrames
-[Wire Frames](https://www.figma.com/file/7ZDcyyAI38PnVadB61Vkpc/OrderZa)
+[Wire Frames](https://www.figma.com/file/0eVkEufGxaoeNws6Z2FCTU/CreateZa?node-id=5-15&t=XgF1xYBrmLrdg7xR-0)
+Old - [Wire Frames](https://www.figma.com/file/7ZDcyyAI38PnVadB61Vkpc/OrderZa)
 
 <!-- To Do
   - create new wireframe
